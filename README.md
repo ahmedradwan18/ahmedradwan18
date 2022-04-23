@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Radwan Ahmed</h1>
-<h3 align="center">A passionate Flutter Developer</h3>
+<h3 align="center">Mobile application developer who is eager and highly motivated to learn more about mobile development and new technologies, I am looking to develop and build new applications/features, Maintaining and optimizing existing features , always have a passion for writing clean architecture, well structured, readable and easily-testable code.</h3>
 
 - 🔭 I’m currently working at **Tamauze Digital Solutions company**
+
+- 📫 Email me at **aradwan054@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
